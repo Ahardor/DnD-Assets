@@ -1,0 +1,81 @@
+# Blender 4.0.2 MTL File: 'Asylum.blend'
+# www.blender.org
+
+newmtl Material.001
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+Pr 0.888601
+Pm 0.481865
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd AsylumT.png
+
+newmtl c1200_0.001
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+Pr 0.828501
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd AsylumT.png
+map_Ks Asylum Demon/c2232_WP_A_0654_s.png
+map_Bump Asylum Demon/c2232_WP_A_0654_n.png
+
+newmtl c1200_1.001
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 9
+Pr 0.828501
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd AsylumT.png
+map_Ks Asylum Demon/c2239_s.png
+map_d Asylum Demon/c2239.png
+map_Bump Asylum Demon/c2239_n.png
+
+newmtl c1200_2.001
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+Pr 0.828501
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd AsylumT.png
+map_Ks Asylum Demon/c2239_s.png
+map_Bump Asylum Demon/c2239_n.png
+
+newmtl c1200_3.001
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 9
+Pr 0.828501
+Pm 0.000000
+Ps 0.000000
+Pc 0.000000
+Pcr 0.030000
+aniso 0.000000
+anisor 0.000000
+map_Kd AsylumT.png
+map_Ks Asylum Demon/c2239_s.png
+map_d Asylum Demon/c2239.png
+map_Bump Asylum Demon/c2239_n.png

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flanged Maces
+* source:	https://sketchfab.com/3d-models/flanged-maces-7b4e2fc9573c4868bbe0dfdaad6df633
+* author:	tonken (https://sketchfab.com/tonken)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flanged Maces" (https://sketchfab.com/3d-models/flanged-maces-7b4e2fc9573c4868bbe0dfdaad6df633) by tonken (https://sketchfab.com/tonken) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
